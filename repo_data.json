@@ -1,0 +1,5 @@
+{
+    "name": "telegram-browser-bot",
+    "private": false,
+    "description": "Telegram Bot with FastAPI and Playwright, deployed via Render"
+}

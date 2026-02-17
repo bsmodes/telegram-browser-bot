@@ -2,6 +2,8 @@
 
 A "Plug and Play" Dockerized Telegram bot that uses Google Gemini to control a headless Playwright browser.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/bsmodes/telegram-browser-bot)
+
 ## Features
 - **FastAPI Webhook**: Efficiently handles Telegram updates.
 - **Gemini Reasoning**: Converts natural language into JSON browser actions.
