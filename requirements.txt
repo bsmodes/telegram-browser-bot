@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-telegram-bot
+google-generativeai
+playwright
+nest_asyncio
+python-dotenv
+requests
